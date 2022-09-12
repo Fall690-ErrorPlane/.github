@@ -1,6 +1,6 @@
 Team Error-Plane
 
-This project uses computer vision machine learning to identify contrails in satellite images. 
+This project uses computer vision machine learning to identify contrails in satellite images. Development and evaluation of these avoidance strategies greatly benefits from the ability to detect contrails on satellite imagery. Contrails condensation trails) are the ice clouds that trail behind aircraft as they fly through cold and moist regions of the atmosphere. Avoiding these regions could potentially be an inexpensive way to reduce over half of aviation’s impact on global warming. 
 
 <!--
 
